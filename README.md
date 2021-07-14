@@ -1,5 +1,6 @@
 # vue-cookie [![CircleCI](https://circleci.com/gh/alfhen/vue-cookie.svg?style=svg)](https://circleci.com/gh/alfhen/vue-cookie)
-A Vue.js plugin for manipulating cookies tested up to ```Vue v2.0.5```
+A Vue.js plugin for manipulating cookies tested up to ```Vue3```
+    vue2：https://github.com/alfhen/vue-cookie
 
 ## Installation
 
